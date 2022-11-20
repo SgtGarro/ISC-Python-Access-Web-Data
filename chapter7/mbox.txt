@@ -1,0 +1,2 @@
+Hello world!
+today im gonna show you how to make a python program
